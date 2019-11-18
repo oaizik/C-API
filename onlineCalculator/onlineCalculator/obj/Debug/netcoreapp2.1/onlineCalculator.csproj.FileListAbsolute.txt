@@ -1,0 +1,14 @@
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\bin\Debug\netcoreapp2.1\onlineCalculator.deps.json
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\bin\Debug\netcoreapp2.1\onlineCalculator.runtimeconfig.json
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\bin\Debug\netcoreapp2.1\onlineCalculator.runtimeconfig.dev.json
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\bin\Debug\netcoreapp2.1\onlineCalculator.dll
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\bin\Debug\netcoreapp2.1\onlineCalculator.pdb
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.csprojAssemblyReference.cache
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.csproj.CoreCompileInputs.cache
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.RazorAssemblyInfo.cache
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.RazorAssemblyInfo.cs
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.AssemblyInfoInputs.cache
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.AssemblyInfo.cs
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.RazorTargetAssemblyInfo.cache
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.dll
+c:\users\oaizik\source\repos\onlineCalculator\onlineCalculator\obj\Debug\netcoreapp2.1\onlineCalculator.pdb
